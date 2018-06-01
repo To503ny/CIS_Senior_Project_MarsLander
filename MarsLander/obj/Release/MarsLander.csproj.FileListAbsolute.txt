@@ -1,0 +1,10 @@
+C:\Users\coded_000\Documents\GitHub\CIS470MarsLander\MarsLander\bin\Release\MarsLander.exe.config
+C:\Users\coded_000\Documents\GitHub\CIS470MarsLander\MarsLander\bin\Release\MarsLander.exe
+C:\Users\coded_000\Documents\GitHub\CIS470MarsLander\MarsLander\bin\Release\MarsLander.pdb
+C:\Users\coded_000\Documents\GitHub\CIS470MarsLander\MarsLander\obj\Release\MarsLander.MarsLanderNavSimulator.resources
+C:\Users\coded_000\Documents\GitHub\CIS470MarsLander\MarsLander\obj\Release\MarsLander.Properties.Resources.resources
+C:\Users\coded_000\Documents\GitHub\CIS470MarsLander\MarsLander\obj\Release\MarsLander.csproj.GenerateResource.Cache
+C:\Users\coded_000\Documents\GitHub\CIS470MarsLander\MarsLander\obj\Release\MarsLander.csproj.CoreCompileInputs.cache
+C:\Users\coded_000\Documents\GitHub\CIS470MarsLander\MarsLander\obj\Release\MarsLander.exe
+C:\Users\coded_000\Documents\GitHub\CIS470MarsLander\MarsLander\obj\Release\MarsLander.pdb
+C:\Users\coded_000\Documents\GitHub\CIS470MarsLander\MarsLander\obj\Release\MarsLander.csprojResolveAssemblyReference.cache
